@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <string name="texto_botao">AVANÇAR</string>
+
+    <string name="texto_name">NOME</string>
+
+    <string name="texto_curso">CURSO</string>
+
 </resources>
